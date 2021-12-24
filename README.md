@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sachithsamaraweera@gmail.com
 
-(https://github-readme-stats.vercel.app/api?username=sachithsamaraweera)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachithsamaraweera)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sachithsamaraweera/sachithsamaraweera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
