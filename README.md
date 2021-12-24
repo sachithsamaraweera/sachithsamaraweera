@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sachithsamaraweera
-- 👀 I’m interested in networking and web development
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sachithsamaraweera@gmail.com
+- 👋 Hi, I’m @sachithsamaraweera.
+- 👀 I’m interested in networking and web development.
+- 🌱 I’m currently learning php and React.
+- 📫 How to reach me sachithsamaraweera@gmail.com.
 
 
 
